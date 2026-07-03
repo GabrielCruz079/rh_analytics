@@ -15,7 +15,7 @@
 
 > Dashboard interativo com tema escuro, filtros por departamento, status, gênero e nível de cargo.
 
-![Dashboard RH](images/dashboard_rh.png)
+![Dashboard RH](images/Dashboard_Rh.png)
 
 ---
 
